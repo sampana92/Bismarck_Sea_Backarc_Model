@@ -1,5 +1,5 @@
       Site,,,,               ITRF08,,               AUS-fix,,,
-#,Name,Long(deg),Lat(deg),Ve (mm/yr),Vn (mm/yr),Ve (mm/yr),Vn (mm/yr),?e,?n
+#,Name,Long(deg),Lat(deg),Ve (mm/yr),Vn (mm/yr),Ve (mm/yr),Vn (mm/yr),σe,σn
 1,ALT2,150.338,-10.310,33.54,56.81,0.82,1.08,0.52,0.99
 2,BASM,150.833,-9.466,34.82,69.45,1.77,13.91,1.11,1.38
 3,BAYA,149.474,-9.608,34.55,61.59,1.35,5.55,0.83,0.58
